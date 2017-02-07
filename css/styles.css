@@ -1,3 +1,65 @@
 body {
-	background-color: firebrick;
+	background: url("/images/coding.jpg") no-repeat center center fixed;
+	background-size: cover;
+	color: #EDDBCD;
+	mix-blend-mode: screen;
 }
+
+h1 {
+	background-color: #c06014
+}
+
+img	{
+	height: 100px;
+	width: 100px;
+}
+
+
+.main-footer {
+	position: fixed;
+    bottom: 0;
+    left: 0;
+    margin: 0;
+    width: 100%;
+    opacity: 0.6;
+    left: 0;
+    margin: 0; 
+    background-color: #CDCDCD;  
+}
+
+.social-media {
+	margin: 0;
+    padding: 0;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    list-style: none;
+}
+
+li {
+	margin-right: 33px;
+}
+
+a img {
+	height: 50px;
+	width: 50px;
+}    
+
+
+
+
+
+
+
+
+
+
+
+
+/****************
+Color scheme
+****************/
+#C06014
+#EDDBCD
+#000000
+#CDCDCD
