@@ -1,5 +1,5 @@
 body {
-	/*background: url("/images/coding.jpg") no-repeat center center fixed;*/
+	/*background: url("/images/coding.jpg") no-repeat center fixed;*/
 	/*background-size: cover;*/
 	background-color: #999;
 
@@ -17,6 +17,7 @@ header {
 }
 
 h1.nav {
+	color: #EDDBCD;
 	background-color: #c06014
 }
 
@@ -52,6 +53,11 @@ img {
     list-style: none;
 }
 
+.card {
+	border: 2px 2px 2px;
+	border-color: #EDDBCD;
+}
+
 a img:hover {
 	background-color: #c06014;
   	background-position: 0 -24px;
@@ -71,15 +77,6 @@ a img {
 	height: 50px;
 	width: 50px;
 }    
-
-
-
-
-
-
-
-
-
 
 
 
