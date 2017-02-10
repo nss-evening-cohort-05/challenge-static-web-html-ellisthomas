@@ -22,9 +22,10 @@ h1.nav {
 }
 
 .profile-pic {
-	overflow: auto;
-	height: 250px;
-	width: 400px;
+	/*overflow: auto;*/
+	height: 300px;
+	width: 300px;
+	border-radius: 50%;
 }
 
 img {
