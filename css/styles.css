@@ -1,0 +1,90 @@
+body {
+	/*background: url("/images/coding.jpg") no-repeat center fixed;*/
+	/*background-size: cover;*/
+	background-color: #999;
+
+}
+
+header {
+	background-color: #000000;
+	color: #fff;
+	font-size: 50px;
+	text-align: center;
+}
+
+.main-content {
+	background-color: #EDDBCD;
+}
+
+h1.nav {
+	color: #EDDBCD;
+	background-color: #c06014
+}
+
+.profile-pic {
+	/*overflow: auto;*/
+	height: 300px;
+	width: 300px;
+	border-radius: 50%;
+}
+
+img {
+	float: right;
+	margin-left: 10px;
+}
+
+.main-footer {
+	position: fixed;
+    bottom: 0;
+    left: 0;
+    margin: 0;
+    width: 100%;
+    opacity: 0.6;
+    left: 0;
+    margin: 0; 
+    background-color: #CDCDCD;  
+}
+
+.social-media {
+	margin: 0;
+    padding: 0;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    list-style: none;
+}
+
+.card {
+	border: 2px 2px 2px;
+	border-color: #EDDBCD;
+}
+
+a img:hover {
+	background-color: #c06014;
+  	background-position: 0 -24px;
+  	cursor: pointer;
+  	box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+
+ol a:hover {
+	cursor: pointer;
+	background-color: #CDCDCD;
+}
+li {
+	margin-right: 33px;
+}
+
+a img {
+	height: 50px;
+	width: 50px;
+}    
+
+
+
+/****************
+Color scheme
+****************/
+#C06014
+#EDDBCD
+#000000
+#CDCDCD
